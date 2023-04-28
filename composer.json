@@ -11,7 +11,8 @@
     ],
     "require": {
         "altorouter/altorouter": "^2.0",
-        "ext-json": "*"
+        "ext-json": "*",
+        "guzzlehttp/guzzle": "^7.5"
     },
     "autoload": {
         "psr-4": {
